@@ -8,7 +8,7 @@ const globalForPrisma = global as unknown as {
 
 // if (!globalForPrisma.prisma) {
 //   globalForPrisma.prisma = new PrismaClient();
-// }
+// }aa
 
 // prisma = globalForPrisma.prisma;
 
